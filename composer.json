@@ -1,0 +1,22 @@
+{
+    "name": "amavis442/yii2-imagemanager",
+    "description": "Image mananger for Yii2.",
+    "keywords": ["yii", "extension", "widget"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick Teunissen",
+            "email": "amavis442@hotmail.com",
+            "homepage": "http://www.yiiandme.com"
+        }
+    ],
+    "require" : {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "amavis442\\imagemanager\\": ""
+        }
+    }
+}
